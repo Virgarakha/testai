@@ -35,7 +35,7 @@ Jangan terlalu panjang.
       },
       {
         headers: {
-          Authorization: `Bearer ${import.meta.env.VITE_OPENROUTER_API_KEY}`,
+          Authorization: `Bearer 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`,
           "Content-Type": "application/json",
           "HTTP-Referer": window.location.origin,
           "X-Title": "AI Pemarah"
